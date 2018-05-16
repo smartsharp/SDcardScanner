@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/696a02a559a3e9228481f10f3a852d34/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:11-51
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.READ_MEDIA_STORAGE
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:9:22-81
+application
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/696a02a559a3e9228481f10f3a852d34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/696a02a559a3e9228481f10f3a852d34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.androidcycle.sdcardscanner.storage.StorageActivity
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:17:19-41
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:16:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/696a02a559a3e9228481f10f3a852d34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/696a02a559a3e9228481f10f3a852d34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		ADDED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vargo/work/github/SDcardScanner/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03a1eb48529b9fef174d925b8bba8053/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/65ce2b4abd770b1afcec546c0fd70e09/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d00e9db7b60aaec0cdd56527d3d2487/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b2293e5b17750764ec39fbee0a0624f4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3300969cb22c536cbf563eda71a57ee1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fd5e8fdaafa4c653098af5437d6375dc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/043e4281c49ee8c4cb353968363587bb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d781ac3b5b9416a5681fc00c293b1318/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/04fd060eb99a9c81e43e574a56fc10af/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cab72230ad62a5d59327ce0b3e52f109/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6547a2884b57d87925279944b67630ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5feac3e0e313493dda8b14b9ef8e9007/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ef7edc052ad03b1981a89468209d92c2/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/vargo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b8128352ddb1409e72cb868a1e2e7692/AndroidManifest.xml:26:13-58

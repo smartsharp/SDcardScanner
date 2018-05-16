@@ -5,6 +5,7 @@ import android.support.v7.widget.AppCompatButton;
 import android.support.v7.widget.RecyclerView;
 import android.text.Layout;
 import android.text.StaticLayout;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -153,6 +154,7 @@ public class StoragePathRecyclerAdapter extends RecyclerView.Adapter {
                     break;
                 case R.id.storage_item_write_test_btn:
                     if (operatorInterface != null) {
+                        Log.d("zhanghb", "onClick: mPath="+mPath);
                         operatorInterface.onWriteTest(mPath);
                     }
                     break;
